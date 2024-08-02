@@ -10,7 +10,6 @@ setup(
     packages=find_packages(),
     install_requires=[
         'google-search-results>=2.4.2',
-        'openai>=0.27.0',
         'pydantic>=1.10.5',
         'requests>=2.28.2'
     ],
