@@ -1,4 +1,4 @@
-from llm_agents import Agent, ChatLLM, PythonREPLTool, SerpAPITool
+from llm_agents import Agent, PythonREPLTool, SerpAPITool
 
 if __name__ == '__main__':
     prompt = input("Enter a question / task for the agent: ")
